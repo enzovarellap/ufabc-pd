@@ -1,0 +1,11 @@
+{
+    "mcpServers": {
+        "laravel-boost": {
+            "command": "/usr/bin/php8.2",
+            "args": [
+                "/home/enzov/projects/pd-front-end/artisan",
+                "boost:mcp"
+            ]
+        }
+    }
+}
